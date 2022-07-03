@@ -28,6 +28,7 @@ print("Type the values for the following keys.")
 print("If not values to be changed, leave blank and press enter.")
 print('#'*80)
 
+# Edit this list, adding as many values as you would like to change
 List = ["fullnameOverride"]
 Dict = {}
 
